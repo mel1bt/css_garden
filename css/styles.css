@@ -1,0 +1,109 @@
+
+body { 
+	
+	background-image: url(http://static.tumblr.com/fa1168dc8ff4df0526d0fc9707d5c9fb/rflcg3z/FV0nhjeku/tumblr_static_9hb9cmokwhkwcwcggwc8wg40s.jpg);
+		}
+
+h3{
+	color: transparent #7D775C;
+}
+
+h1{
+	font: italic normal 1em georgia;
+		position: absolute;
+	top: 10px;
+	right: 5px;
+text-align: right;
+color: white;
+text-align: center;
+
+	}
+
+h2{
+	font: italic normal 3em georgia;
+	color: #6A0888;
+	background-color: white;
+
+	}
+
+
+h3 { 
+	font: italic normal 1.4em garamond, sans-serif;
+	color: #6A0899;
+	}
+
+p { 
+	text-align: justify;
+	}
+
+a:link { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #8904B1;
+	}
+a:visited { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #8904B1;
+	}
+a:hover, a:focus, a:active { 
+	text-decoration: underline; 
+	color:  #8904B1;
+	}
+
+.page-wrapper { 
+	background: #FFE5FD; 
+padding: 0 175px 0 110px;  
+	margin: 0; 
+	position: relative;
+	}
+
+.intro { 
+	width: 300px;
+	width: 100%;
+	}
+
+header h1 { 
+	background: transparent url(http://www.clipartkid.com/images/695/transparent-roses-flower-isolated-in-png-bNGhUM-clipart.png) no-repeat top left;
+	margin-top: 0px;
+	display: block;
+	width: 170px;
+	height: 150px;
+	float: left ;
+	white-space: nowrap;
+	background-size:cover; /*permite ajustar la imagen*/
+	}
+
+.sidebar {
+	margin-right: 10px;
+	position: absolute; 
+	top: 0; 
+	right: 0;
+	border: solid white;
+
+}
+
+.sidebar .wrapper { 
+	font: 10px verdana, sans-serif; 
+	background-color: #FA58AC top left repeat-y; 
+	padding: 10px; 
+	margin-top: 150px; 
+	width: 130px; 
+	}
+
+.summary{
+	background-color: #610B4B;
+	font-style: oblique;
+	margin: 0;
+	color: white;
+}
+#zen-summary{
+	font: 1sem times, sans-serif; 
+	text-align: justify;
+}
+.select {
+	background-color: white;
+}
+.archives {
+	background-color: white;
+}
